@@ -20,3 +20,5 @@ effects and tax policy.
 Open `Results.ipynb` in the same folder as `Consumer.py` and `Government.py`,
 and run all cells from the top. No other setup is required beyond `numpy`,
 `scipy`, `pandas` and `matplotlib`.
+
+In order for the model to work, please replace the contents of the stock 'Consumer.py' with the contents of the updated 'Consumer.py'.
